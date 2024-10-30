@@ -1,0 +1,111 @@
+# Copyright (C) 2024 bPlugins
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Slider Block 3.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/content-slider-block-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-30T09:05:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: content-slider-block\n"
+
+#. Plugin Name of the plugin
+msgid "Content Slider Block"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display your goal to your visitor in bountiful way with content slider block."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://bplugins.com"
+msgstr ""
+
+#: includes/CustomPost.php:28
+#: includes/CustomPost.php:29
+#: includes/pattern.php:15
+msgid "Content Slider"
+msgstr ""
+
+#: includes/CustomPost.php:30
+#: includes/CustomPost.php:31
+msgid "Add New"
+msgstr ""
+
+#: includes/CustomPost.php:32
+msgid "Edit"
+msgstr ""
+
+#: includes/CustomPost.php:33
+msgid "New"
+msgstr ""
+
+#: includes/CustomPost.php:34
+msgid "View"
+msgstr ""
+
+#: includes/CustomPost.php:35
+msgid "Search"
+msgstr ""
+
+#: includes/CustomPost.php:36
+msgid "Sorry, we couldn't find the that you are looking for."
+msgstr ""
+
+#: includes/HelpPage.php:11
+msgid "Content Slider - Help"
+msgstr ""
+
+#: includes/HelpPage.php:12
+msgid "Help"
+msgstr ""
+
+#: includes/UpgradePage.php:11
+msgid "Content Slider - Upgrade"
+msgstr ""
+
+#: includes/UpgradePage.php:12
+msgid "Upgrade"
+msgstr ""
+
+#: build/admin-post.js:1
+msgid "Copied Successfully!"
+msgstr ""
+
+#: build/admin-post.js:1
+msgid "Copy To Clipboard"
+msgstr ""
+
+#: build/block.json
+msgctxt "block title"
+msgid "Content Slider"
+msgstr ""
+
+#: build/block.json
+msgctxt "block description"
+msgid "Display slider in a beautiful way."
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "carousel slider"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "content carousel"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "custom slider"
+msgstr ""
